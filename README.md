@@ -2,5 +2,8 @@
 
 ###### Jeremy's C library
 
-My personal ANSI C library. This is a collection of library code to be used in C applications.
+I started this project primarily for educational purposes during a deep dive into C,
+Linux system calls, and brushing up on algorithms and data structures.
+
+I also needed a new project to store library code for current and future C projects.
 
